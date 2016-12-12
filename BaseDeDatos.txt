@@ -1,0 +1,18 @@
+Username Table
+
+Username - varchar(100)
+Name - varchar(100)
+Password - varchar(100)
+Email - varchar(100)
+Roll - varchar(100)
+
+Complains Table
+
+DateTime - date
+Username - varchar(100)
+ProblemType - varchar(100)
+BDescription - varchar(100)
+PDescription - varchar(100)
+Status - varchar(100)
+SDescription - varchar(100)
+TechUser - varchar(100)
